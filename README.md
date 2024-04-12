@@ -4,7 +4,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agam1092005&theme=yellowdark&hide_border=true" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agam1092005&size_weight=0&count_weight=1&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agam1092005&size_weight=0.5&count_weight=0.5&hide_progress=true)
 
 - 🔭 I’m currently working on **AI Ideas**
 
