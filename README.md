@@ -4,11 +4,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agam1092005&theme=yellowdark&hide_border=true" alt="GitHub Streak" /></a>
 
-[![Agampreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=agam1092005&hide=issues,prs&show_icons=true&theme=highcontrast)](https://github.com/agam1092005/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agam1092005&size_weight=0&count_weight=1&theme=dark#gh-dark-mode-only&hide_progress=true)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agam1092005&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agam1092005&size_weight=0&count_weight=1&hide_progress=true)
 
 - 🔭 I’m currently working on **AI Ideas**
 
