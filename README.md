@@ -8,6 +8,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agam1092005&size_weight=0&count_weight=1&theme=highcontrast&hide_progress=true)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agam1092005&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on **AI Ideas**
 
 - 🌱 I’m currently learning **Ruby on rails & Kotlin**
