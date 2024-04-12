@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **agam1092005@gmail.com**
 
-- 📄 Know about my experiences [http://lnkiy.in/ReadMyResume](https://drive.google.com/file/d/1PurFYj9GC0iqMnzBNiL2DotQVnTLmjc0/view?usp=drive_link)
+- 📄 Know about my experiences [ReadMyResume](https://drive.google.com/file/d/1PurFYj9GC0iqMnzBNiL2DotQVnTLmjc0/view?usp=drive_link)
   
 - ⚡ Fun fact **I am Inquisitive, Agnostic & little bit of Pessimistic person**
 
