@@ -6,6 +6,8 @@
 
 [![Agampreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=agam1092005&hide=issues,prs&show_icons=true&theme=highcontrast)](https://github.com/agam1092005/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agam1092005&size_weight=0.5&count_weight=0.5&theme=highcontrast)
+
 - 🔭 I’m currently working on **AI Ideas**
 
 - 🌱 I’m currently learning **Ruby on rails & Kotlin**
