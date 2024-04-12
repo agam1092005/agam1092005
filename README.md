@@ -4,7 +4,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agam1092005&theme=yellowdark&hide_border=true" alt="GitHub Streak" /></a>
 
-[![Agam's GitHub stats](https://github-readme-stats.vercel.app/api?username=agam1092005)](https://github.com/agam1092005/github-readme-stats)
+[![Agam's GitHub stats](https://github-readme-stats.vercel.app/api?username=agam1092005&hide=issues,prs)](https://github.com/agam1092005/github-readme-stats)
 
 - 🔭 I’m currently working on **AI Ideas**
 
