@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agampreet Singh</h1>
-<h3>Passionate self-taught programmer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4000&pause=1500&color=FFEF05&center=true&vCenter=true&random=false&width=435&lines=Try+Again.+Fail+Again.+Fail+Better." alt="Typing SVG" /></a>
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agam1092005&theme=yellowdark&hide_border=true" alt="GitHub Streak" /></a>
