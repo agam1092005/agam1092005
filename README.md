@@ -36,7 +36,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,rails,flask,qt,anaconda,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=flutter,rails,flask,anaconda,tailwind,bootstrap" />
   </a>
 </p>
 <p align="left">
