@@ -36,12 +36,17 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,rails,anaconda,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=flutter,rails,anaconda,bootstrap,tailwind" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,visualstudio,pycharm,sublime,postman,firebase" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,visualstudio,pycharm,sublime" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,postman,firebase" />
   </a>
 </p>
 <p align="left">
@@ -51,7 +56,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,bash,vim,sass,ps,notion" />
+    <img src="https://skillicons.dev/icons?i=autocad,vim,sass,ps,notion" />
   </a>
 </p>
 <p align="left">
