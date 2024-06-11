@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI Ideas**
 
-- 🌱 I’m currently learning **Ruby on rails & Kotlin**
+- 🌱 I’m currently learning **React, ThreeJS, ExpressJS, PostgresSQL & Kotlin**
 
 - 🤙 I’m looking to collaborate on **ML & Neuroscience Ideas**
 
