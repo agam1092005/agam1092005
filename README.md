@@ -45,7 +45,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,postman,firebase,node,express" />
+    <img src="https://skillicons.dev/icons?i=git,bash,postman,firebase,nodejs,express" />
   </a>
 </p>
 <p align="left">
