@@ -5,19 +5,15 @@
 
 - 🔭 I’m currently working on **AI Ideas**
 
-- 🌱 I’m currently learning **NextJS & Rasberry Pi**
+- 🌱 I’m currently learning **Robotics & Rasberry Pi**
 
 - 🤙 I’m looking to collaborate on **ML & Neuroscience Ideas**
-
-- 🤝 I’m looking for help with **my life 🫣**
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **agam1092005@gmail.com**
 
-- 📄 Know about my experiences [ReadMyResume](https://drive.google.com/file/d/1PurFYj9GC0iqMnzBNiL2DotQVnTLmjc0/view?usp=drive_link)
-  
-- ⚡ Fun fact **I am Inquisitive, Agnostic & little bit of Pessimistic person**
+- 📄 Know about my experiences [ReadMyResume](https://drive.google.com/file/d/1Lo7sd3PGEkBXSCOgjZZ4Ya4jm9lWosn3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
