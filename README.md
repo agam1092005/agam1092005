@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI Ideas**
 
-- 🌱 I’m currently learning **Robotics & Rasberry Pi**
+- 🌱 I’m currently learning **Go**
 
 - 🤙 I’m looking to collaborate on **ML & Neuroscience Ideas**
 
