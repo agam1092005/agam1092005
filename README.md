@@ -31,12 +31,12 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,anaconda,react,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,tailwind" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,visualstudio,pycharm,sublime" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,visualstudio" />
   </a>
 </p>
 <p align="left">
