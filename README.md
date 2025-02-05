@@ -26,7 +26,7 @@
 <h3 align="left">Languages, Tools & OS:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,mysql,dart,go" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,dart,go" />
   </a>
 </p>
 <p align="left">
