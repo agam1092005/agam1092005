@@ -31,7 +31,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,next,tailwind" />
   </a>
 </p>
 <p align="left">
@@ -51,7 +51,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,vim,sass,ps,notion" />
+    <img src="https://skillicons.dev/icons?i=autocad,vim,notion" />
   </a>
 </p>
 <p align="left">
