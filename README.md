@@ -17,10 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/agam1092005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agam1092005" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agam1092005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agam1092005" height="30" width="40" /></a>
 <a href="https://instagram.com/agam1092005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agam1092005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/agam1092005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agam1092005" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Tools & OS:</h3>
@@ -46,7 +44,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
   </a>
 </p>
 <p align="left">
